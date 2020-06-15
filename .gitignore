@@ -1,0 +1,25 @@
+# (IDE) temp folders
+.vs/
+_int/
+_out/
+
+# Files containing (signing) keys
+*.pfx
+*.pvk
+*.spc
+*.cer
+*.snk
+
+# Build/publishing files (could contain API key and/or paths)
+.psgallery
+*.buildenvironment.xml
+*.buildenvironment.json
+
+# Windows specific system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# MacOS specific system files
+.DS_Store
